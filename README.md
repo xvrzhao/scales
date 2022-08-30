@@ -1,3 +1,4 @@
+```
 major scale: 1   2   3  4   5   6   7  1
          Ab:
          Eb:
@@ -9,3 +10,4 @@ major scale: 1   2   3  4   5   6   7  1
           A: 
           E: 
           B: B   C#  D# E   F#  G#  A# B
+```
