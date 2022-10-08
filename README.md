@@ -1,5 +1,5 @@
 ## Fretboard
-![fretboard](./images/fretboard.jpg)
+![Fretboard](./images/fretboard.drawio.svg)
 
 ## Mode Scales
 ```
