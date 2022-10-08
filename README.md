@@ -32,6 +32,6 @@ Major Scale: 1   2   3   4   5   6   7   1
 ## Locrian
 ```
            H   W   W   H   W   W   W
-Locrian: 1   2b  3b  4   5b  6b  7b  1
+Locrian: 1   b2  b3  4   b5  b6  b7  1
       G: G   Ab  Bb  C   Db  Eb  F   G
 ```
