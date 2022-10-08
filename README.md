@@ -1,3 +1,6 @@
+### Fretboard
+![fretboard](./images/fretboard.jpg)
+
 ### Major Scale / Ionian
 ```
                W   W   H   W   W   W   H
