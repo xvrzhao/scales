@@ -14,19 +14,24 @@ Mixolydian: 1   2   3   4   5   6  b7   1
 
 ## Major Scale / Ionian
 ```
-               W   W   H   W   W   W   H
-Major Scale: 1   2   3   4   5   6   7   1
-         Db:
+               W   W   H   W   W   W   H     
+Major Scale: 1   2   3   4   5   6   7   1        ↓ 5th
          Ab: Ab  Bb  C   Db  Eb  F   G   Ab
          Eb: Eb  F   G   Ab  Bb  C   D   Eb
          Bb: Bb  C   D   Eb  F   G   A   Bb
           F: F   G   A   Bb  C   D   E   F
-          C: C   D   E   F   G   A   B   C
+       *  C: C   D   E   F   G   A   B   C
           G: G   A   B   C   D   E   F#  G
           D: D   E   F#  G   A   B   C#  D
-          A: 
-          E: 
-          B: B   C#  D#  E   F#  G#  A#  B
+          A: A   B   C#  D   E   F#  G#  A
+          E: E   F#  G#  A   B   C#  D#  E
+          
+       (  B: B   C#  D#  E   F#  G#  A#  B
+         Cb: Cb  Db  Eb  Fb  Gb  Ab  Bb  Cb )
+       ( Gb: Gb  Ab  Bb  Cb  Db  Eb  F   Gb
+         F#: F#  G#  A#  B   C#  D#  E#  F# )
+       ( Db: Db  Eb  F   Gb  Ab  Bb  C   Db
+         C#: C#  D#  E#  F#  G#  A#  B#  C# )
 ```
 
 ## Locrian
