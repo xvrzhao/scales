@@ -1,5 +1,5 @@
-## Circle of fifths
-![Circle of fifths](./images/circle_of_fifths.svg)
+## Circle of Fifths
+<div align=center><img src=./images/circle_of_fifths.svg></div>
 
 ## Fretboard
 ![Fretboard](./images/fretboard.drawio.svg)
