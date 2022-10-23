@@ -28,29 +28,29 @@ Major Scale: 1   2   3   4   5   6   7   1       ↓ fifths
 
 ## Major Scale Modes
 ```
-                                                   Chord  Avoid
-     Lydian (IV): 1   2   3  #4   5   6   7   1     ^7     
-      Ionian (I): 1   2   3   4   5   6   7   1     ^7      4
-  Mixolydian (V): 1   2   3   4   5   6  b7   1      7      4
+                                                Chord  Avoid
+    Lydian(4): 1   2   3  #4   5   6   7   1     ^7     
+    Ionian(1): 1   2   3   4   5   6   7   1     ^7      4
+Mixolydian(5): 1   2   3   4   5   6  b7   1      7      4
 
-     Dorian (II): 1   2  b3   4   5   6  b7   1     -7      6
-    Aeolian (VI): 1   2  b3   4   5  b6  b7   1     -7      b6
-  Phrygian (III): 1  b2  b3   4   5  b6  b7   1     -7      b2, b6
-   Locrian (VII): 1  b2  b3   4  b5  b6  b7   1     -7b5    b2
+    Dorian(2): 1   2  b3   4   5   6  b7   1     -7      6
+   Aeolian(6): 1   2  b3   4   5  b6  b7   1     -7      b6
+  Phrygian(3): 1  b2  b3   4   5  b6  b7   1     -7      b2, b6
+   Locrian(7): 1  b2  b3   4  b5  b6  b7   1     -7b5    b2
 ```
 
 ## Melodic Minor Scale Modes
 ```
-                                                    Chord
-Melodic Minor (I): 1   2  b3   4   5   6   7   1    -^7
-             ... :
-    Altered (VII): 1  b2  #2   3  b5  b6  b7   1      7
+                                                Chord
+Jazz Minor(1): 1   2  b3   4   5   6   7   1    -^7
+         ... :
+   Altered(7): 1  b2  #2   3  b5  b6  b7   1      7
 ```
 
 ## Harmonic Minor Scale Modes
 ```
-                                                         Chord
-   Harmonic Minor (I): 1   2  b3   4   5  b6   7   1     -^7
-                 ... :
-Mixolydian b9 b13 (V): 1  b2   3   4   5  b6  b7   1     7(b9 b13)
+                                                        Chord
+   Harmonic Minor(1): 1   2  b3   4   5  b6   7   1     -^7
+                ... :
+Mixolydian b9 b13(5): 1  b2   3   4   5  b6  b7   1     7(b9 b13)
 ```
