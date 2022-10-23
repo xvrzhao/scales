@@ -4,19 +4,7 @@
 ## Fretboard
 ![Fretboard](./images/fretboard.drawio.svg)
 
-## Mode Scales
-```
-                                             Avoid
-    Lydian: 1   2   3  #4   5   6   7   1   
-    Ionian: 1   2   3   4   5   6   7   1      4
-Mixolydian: 1   2   3   4   5   6  b7   1      4 
-    Dorian: 1   2  b3   4   5   6  b7   1      6
-   Aeolian: 1   2  b3   4   5  b6  b7   1     b6
-  Phrygian: 1  b2  b3   4   5  b6  b7   1     b2, b6
-   Locrian: 1  b2  b3   4  b5  b6  b7   1     b2
-```
-
-## Major Scale / Ionian
+## Major Scales in 12 Keys
 ```
                W   W   H   W   W   W   H     
 Major Scale: 1   2   3   4   5   6   7   1       ↓ fifths
@@ -38,9 +26,31 @@ Major Scale: 1   2   3   4   5   6   7   1       ↓ fifths
          C#: C#  D#  E#  F#  G#  A#  B#  C# )
 ```
 
-## Locrian
+## Major Scale Modes
 ```
-           H   W   W   H   W   W   W
-Locrian: 1   b2  b3  4   b5  b6  b7  1
-      G: G   Ab  Bb  C   Db  Eb  F   G
+                                                   Chord  Avoid
+     Lydian (IV): 1   2   3  #4   5   6   7   1     ^7     
+      Ionian (I): 1   2   3   4   5   6   7   1     ^7      4
+  Mixolydian (V): 1   2   3   4   5   6  b7   1      7      4
+
+     Dorian (II): 1   2  b3   4   5   6  b7   1     -7      6
+    Aeolian (VI): 1   2  b3   4   5  b6  b7   1     -7      b6
+  Phrygian (III): 1  b2  b3   4   5  b6  b7   1     -7      b2, b6
+   Locrian (VII): 1  b2  b3   4  b5  b6  b7   1     -7b5    b2
+```
+
+## Melodic Minor Scale Modes
+```
+                                                    Chord
+Melodic Minor (I): 1   2  b3   4   5   6   7   1    -^7
+             ... :
+    Altered (VII): 1  b2  #2   3  b5  b6  b7   1      7
+```
+
+## Harmonic Minor Scale Modes
+```
+                                                         Chord
+   Harmonic Minor (I): 1   2  b3   4   5  b6   7   1     -^7
+                 ... :
+Mixolydian b9 b13 (V): 1  b2   3   4   5  b6  b7   1     7(b9 b13)
 ```
