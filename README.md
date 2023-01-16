@@ -54,3 +54,15 @@ Jazz Minor(1): 1   2  b3   4   5   6   7   1    -^7
                 ... :
 Mixolydian b9 b13(5): 1  b2   3   4   5  b6  b7   1     7(b9 b13)
 ```
+
+## Pentatonic Scale Modes
+```
+Major(1): 1   2   3   5   6   1
+Minor(6): 1  b3   4   5  b7   1  (m7 chord add 4)
+```
+
+## Blues Scale Modes
+```
+  Major(1): 1   2  b3   3   5   6   1  (major pentatonic scale add b3)
+* Minor(6): 1  b3   4  #4   5  b7   1  (minor pentatonic scale add #4 / m7 chord add 4, #4)
+```
