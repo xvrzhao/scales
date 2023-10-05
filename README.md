@@ -29,28 +29,28 @@ Major Scale: 1   2   3   4   5   6   7   1       ↓ fifths
 ## Major Scale Modes
 ```
                                                 Chord  Avoid
-    Lydian(4): 1   2   3  #4   5   6   7   1     ^7     
-    Ionian(1): 1   2   3   4   5   6   7   1     ^7      4
+    Lydian(4): 1   2   3  #4   5   6   7   1     M7     
+    Ionian(1): 1   2   3   4   5   6   7   1     M7      4
 Mixolydian(5): 1   2   3   4   5   6  b7   1      7      4
 
-    Dorian(2): 1   2  b3   4   5   6  b7   1     -7      6
-   Aeolian(6): 1   2  b3   4   5  b6  b7   1     -7      b6
-  Phrygian(3): 1  b2  b3   4   5  b6  b7   1     -7      b2, b6
-   Locrian(7): 1  b2  b3   4  b5  b6  b7   1     -7b5    b2
+    Dorian(2): 1   2  b3   4   5   6  b7   1     m7      6
+   Aeolian(6): 1   2  b3   4   5  b6  b7   1     m7      b6
+  Phrygian(3): 1  b2  b3   4   5  b6  b7   1     m7      b2, b6
+   Locrian(7): 1  b2  b3   4  b5  b6  b7   1     m7b5    b2
 ```
 
 ## Melodic Minor Scale Modes
 ```
                                                 Chord
-Jazz Minor(1): 1   2  b3   4   5   6   7   1    -^7
+Jazz Minor(1): 1   2  b3   4   5   6   7   1    mM7
          ... :
-   Altered(7): 1  b9  #9   3  #11 b13 b7   1      7
+   Altered(7): 1  b9  #9   3  #11 b13 b7   1    7(b13)/7Alt
 ```
 
 ## Harmonic Minor Scale Modes
 ```
                                                         Chord
-   Harmonic Minor(1): 1   2  b3   4   5  b6   7   1     -^7
+   Harmonic Minor(1): 1   2  b3   4   5  b6   7   1     mM7
                 ... :
 Mixolydian b9 b13(5): 1  b2   3   4   5  b6  b7   1     7(b9 b13)
 ```
