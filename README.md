@@ -44,7 +44,7 @@ Mixolydian(5): 1   2   3   4   5   6  b7   1      7      4
                                                 Chord
 Jazz Minor(1): 1   2  b3   4   5   6   7   1    -^7
          ... :
-   Altered(7): 1  b2  #2   3  b5  b6  b7   1      7
+   Altered(7): 1  b9  #9   3  #11 b13 b7   1      7
 ```
 
 ## Harmonic Minor Scale Modes
