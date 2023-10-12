@@ -2,7 +2,8 @@
 <div align=center><img src=./images/circle_of_fifths.svg></div>
 
 ## Fretboard
-![Fretboard](./images/fretboard.drawio.svg)
+![C Major Scales](./images/fretboard.drawio.svg)
+![C Melodic Minor 5 Positions](./images/c_melodic_minor_5_positions.jpg)
 
 ## Major Scales in 12 Keys
 ```
