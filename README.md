@@ -43,11 +43,11 @@ Mixolydian(5): 1   2   3   4   5   6  b7   1      7      4
 ## Melodic Minor Scale Modes
 ```
                                                 Chord
-Jazz Minor(1): 1   2  b3   4   5   6   7   1    mM7
-         ... : ...
- Lydian b7(4): 1   2   3  #4   5   6  b7   1    7(#11) / 7(b5)
-         ... : ...
-   Altered(7): 1  b2  #2   3  #4  b6  b7   1    7Alt
+     Jazz Minor(1): 1   2  b3   4   5   6   7   1    mM7
+              ... : ...
+Lydian Dominant(4): 1   2   3  #4   5   6  b7   1    7(#11) / 7(b5)
+              ... : ...
+        Altered(7): 1  b2  #2   3  #4  b6  b7   1    7Alt
 ```
 
 ## Harmonic Minor Scale Modes
