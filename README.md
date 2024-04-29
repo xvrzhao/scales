@@ -1,5 +1,5 @@
 ## Circle of Fifths
-<div align="center"><img src=./images/circle_of_fifths.svg></div>
+<p align="center"><img src=./images/circle_of_fifths.svg></p>
 
 ## Fretboard
 ![C Major Scale 5 Positions](./images/c_major_scale_5_positions.jpg)|![C Melodic Minor 5 Positions](./images/c_melodic_minor_5_positions.jpg)|![C Harmonic Minor 5 Positions](./images/c_harmonic_minor_5_positions.jpg)
