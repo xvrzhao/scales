@@ -2,8 +2,11 @@
 <p align="center"><img src="./images/circle_of_fifths.svg" width="70%"></p>
 
 ## Fretboard
-![C Major Scale 5 Positions](./images/c_major_scale_5_positions.jpg)|![C Melodic Minor 5 Positions](./images/c_melodic_minor_5_positions.jpg)|![C Harmonic Minor 5 Positions](./images/c_harmonic_minor_5_positions.jpg)
----|---|---
+![C Major Scale 5 Positions](./images/c_major_scale_5_positions.jpg)|![C Melodic Minor 5 Positions](./images/c_melodic_minor_5_positions.jpg)
+---|---
+
+![C Harmonic Minor 5 Positions](./images/c_harmonic_minor_5_positions.jpg)|![A Minor Pentatonic / C Major Pentatonic Scale 5 Positions](./images/a_minor_c_major_pentatonic_5_positions.jpg)
+---|---
 
 ## Major Scales in 12 Keys
 ```
