@@ -44,8 +44,8 @@ VII-7b5 : 7 2 4 6
 
 ## Major Scale Modes
 ```
-                                                Chord  Avoid
-    Lydian(4): 1   2   3  #4   5   6   7   1     M7     
+                                                Chord   Avoid
+    Lydian(4): 1   2   3  #4   5   6   7   1     M7      None
     Ionian(1): 1   2   3   4   5   6   7   1     M7      4
 Mixolydian(5): 1   2   3   4   5   6  b7   1      7      4
 
