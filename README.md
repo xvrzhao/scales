@@ -66,6 +66,9 @@ Minor(6): 1  b3   4   5  b7   1  (m7 chord add 4)
 
 ## Blues Scale Modes
 ```
-  Major(1): 1   2  b3   3   5   6   1  (major pentatonic scale add b3)
-* Minor(6): 1  b3   4  #4   5  b7   1  (minor pentatonic scale add #4 / m7 chord add 4, #4)
+              Major(1): 1   2  b3   3   5   6   1  (major pentatonic scale add b3)
+              Minor(6): 1  b3   4  #4   5  b7   1  (minor pentatonic scale add #4 / m7 chord add 4, #4)
+
+  Bebop Major Blues(1): 1   2  b3   3   5   b6   6   1  (major blues scale add chromatic tone: b6)
+  Bebop Minor Blues(6): 1  b3   4  #4   5   b7   7   1  (minor blues scale add chromatic tone: 7)
 ```
