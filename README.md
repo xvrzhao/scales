@@ -1,9 +1,12 @@
 ## Circle of Fifths
-<p align="center"><img src="./images/circle_of_fifths.svg" width="70%"></p>
+<p align="center"><img src="./images/circle_of_fifths.svg" width="55%"></p>
 
 ## Fretboard
-![C Major Scale 5 Positions](./images/c_major_scale_5_positions.jpg)|![C Melodic Minor 5 Positions](./images/c_melodic_minor_5_positions.jpg)|![C Harmonic Minor 5 Positions](./images/c_harmonic_minor_5_positions.jpg)
----|---|---
+![C Major Scale 5 Positions](./images/c_major_scale_5_positions.jpg)|![C Melodic Minor 5 Positions](./images/c_melodic_minor_5_positions.jpg)
+---|---
+
+![C Harmonic Minor 5 Positions](./images/c_harmonic_minor_5_positions.jpg)|![A Minor Pentatonic / C Major Pentatonic Scale 5 Positions](./images/a_minor_c_major_pentatonic_5_positions.jpg)
+---|---
 
 ## Major Scales in 12 Keys
 ```
@@ -27,10 +30,22 @@ Major Scale: 1   2   3   4   5   6   7   1       ↓ fifths
          C#: C#  D#  E#  F#  G#  A#  B#  C# )
 ```
 
+## Diatonic Arpeggios
+```
+   II-7 : 2 4 6 1
+     V7 : 5 7 2 4
+    I^7 : 1 3 5 7
+
+   IV^7 : 4 6 1 3
+
+VII-7b5 : 7 2 4 6
+   VI-7 : 6 1 3 5
+```
+
 ## Major Scale Modes
 ```
-                                                Chord  Avoid
-    Lydian(4): 1   2   3  #4   5   6   7   1     M7     
+                                                Chord   Avoid
+    Lydian(4): 1   2   3  #4   5   6   7   1     M7      None
     Ionian(1): 1   2   3   4   5   6   7   1     M7      4
 Mixolydian(5): 1   2   3   4   5   6  b7   1      7      4
 
