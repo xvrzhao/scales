@@ -8,7 +8,7 @@
 ![C Harmonic Minor 5 Positions](./images/c_harmonic_minor_5_positions.jpg)|![A Minor Pentatonic / C Major Pentatonic Scale 5 Positions](./images/a_minor_c_major_pentatonic_5_positions.jpg)
 ---|---
 
-<p align="center" style="border: solid 1px">Minor Blues Scale - 5 Positions</p> ![Minor Blues 5 Positions](./images/minor-blues-scale-chart.jpeg)|<p align="center" style="border: solid 1px">Minor Blues Scale - 5 Positions</p> ![Major Blues 5 Positions](./images/major-blues-scale-chart.jpeg)
+<p align="center" style="border: solid 1px">Minor Blues Scale - 5 Positions</p> ![Minor Blues 5 Positions](./images/minor-blues-scale-chart.jpeg) | <p align="center" style="border: solid 1px">Minor Blues Scale - 5 Positions</p> ![Major Blues 5 Positions](./images/major-blues-scale-chart.jpeg)
 ---|---
 
 ## Major Scales in 12 Keys
