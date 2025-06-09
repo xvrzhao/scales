@@ -33,10 +33,22 @@ Major Scale: 1   2   3   4   5   6   7   1       ↓ fifths
          C#: C#  D#  E#  F#  G#  A#  B#  C# )
 ```
 
+## Diatonic Arpeggios
+```
+   II-7 : 2 4 6 1
+     V7 : 5 7 2 4
+    I^7 : 1 3 5 7
+
+   IV^7 : 4 6 1 3
+
+VII-7b5 : 7 2 4 6
+   VI-7 : 6 1 3 5
+```
+
 ## Major Scale Modes
 ```
-                                                Chord  Avoid
-    Lydian(4): 1   2   3  #4   5   6   7   1     M7     
+                                                Chord   Avoid
+    Lydian(4): 1   2   3  #4   5   6   7   1     M7      None
     Ionian(1): 1   2   3   4   5   6   7   1     M7      4
 Mixolydian(5): 1   2   3   4   5   6  b7   1      7      4
 
@@ -72,6 +84,9 @@ Minor(6): 1  b3   4   5  b7   1  (m7 chord add 4)
 
 ## Blues Scale Modes
 ```
-  Major(1): 1   2  b3   3   5   6   1  (major pentatonic scale add b3)
-* Minor(6): 1  b3   4  #4   5  b7   1  (minor pentatonic scale add #4 / m7 chord add 4, #4)
+              Major(1): 1   2  b3   3   5   6   1  (major pentatonic scale add b3)
+              Minor(6): 1  b3   4  #4   5  b7   1  (minor pentatonic scale add #4 / m7 chord add 4, #4)
+
+  Bebop Major Blues(1): 1   2  b3   3   5   b6   6   1  (major blues scale add chromatic tone: b6)
+  Bebop Minor Blues(6): 1  b3   4  #4   5   b7   7   1  (minor blues scale add chromatic tone: 7)
 ```
